@@ -27,9 +27,10 @@ public class WindowTest extends ShareData {
 
 
         WebElement SkipRegister = getDriver().findElement(By.id("btn2"));
-        SkipRegister.click();
+        element.ClickElement(SkipRegister);
 
         WebElement SwitchTo = getDriver().findElement(By.xpath("//a[text()='SwitchTo']"));
+
         element.MoveElement(SwitchTo);  //Mergem DOAR pe un anumit element;
 
         WebElement WindowElement = getDriver().findElement(By.xpath("//a[text()='Windows']"));
