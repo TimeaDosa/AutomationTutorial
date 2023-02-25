@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9fffce0f-38f1-46d5-b54e-6eb99ea797c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/AlertPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/IndexPages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/LoginPages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/RegisterPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/AlertTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/AlertTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tests/LoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/WindowTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tests/WindowTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +61,7 @@
       <recent name="C:\Users\timea\IdeaProjects\AutomationTutorial\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.WindowTest.MetodaTest">
+  <component name="RunManager" selected="TestNG.AlertTest.MetodaTest">
     <configuration name="AlertTest.MetodaTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationTutorial" />
       <extension name="coverage">
@@ -99,7 +108,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegisterTest.MetodaTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="LoginTest.MetodaTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationTutorial" />
       <extension name="coverage">
         <pattern>
@@ -108,7 +117,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Tests" />
-      <option name="MAIN_CLASS_NAME" value="Tests.RegisterTest" />
+      <option name="MAIN_CLASS_NAME" value="Tests.LoginTest" />
       <option name="METHOD_NAME" value="MetodaTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -137,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.AlertTest.MetodaTest" />
+        <item itemvalue="TestNG.LoginTest.MetodaTest" />
         <item itemvalue="TestNG.WindowTest.MetodaTest" />
         <item itemvalue="TestNG.C:/Users/timea/IdeaProjects/AutomationTutorial/testng.xml" />
         <item itemvalue="TestNG.FramesTest.MetodaTest" />
-        <item itemvalue="TestNG.AlertTest.MetodaTest" />
-        <item itemvalue="TestNG.RegisterTest.MetodaTest" />
       </list>
     </recent_temporary>
   </component>
